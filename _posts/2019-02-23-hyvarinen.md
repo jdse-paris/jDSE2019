@@ -8,8 +8,8 @@ name: Aapo Hyvarinen
 name-id: hyvarinen
 affiliation: Professor of Computer Science and Machine Learning
 affiliation2: University of Helsinki and University College London
-title: to be announced
-abstract: to be announced
+title: To be announced
+abstract: To be announced
 project-date:
 client:
 category:
